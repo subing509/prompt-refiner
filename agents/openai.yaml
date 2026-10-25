@@ -1,0 +1,4 @@
+interface:
+  display_name: "提示词打磨"
+  short_description: "把粗略需求整理成可编辑提示词，支持修改，等你确认开始后再执行任务"
+  default_prompt: "请用 $prompt-refiner 丰富我接下来提供的需求，先给我可编辑的提示词，等我修改并说开始执行后再工作。"
